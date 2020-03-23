@@ -3,6 +3,7 @@ title: Quarantine Jam
 date: 2020-03-17 14:51:00 +0800
 categories: [Blogging, Youtube]
 tags: [minibrute]
+youtube_id: ZnFht_eMkLA
 ---
 
 ## Arturia Minibrute 2S 

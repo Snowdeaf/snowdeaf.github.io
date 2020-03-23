@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Stuff and stuff
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Snowdeaf
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I produce electronic music and tutorial videos
+- Arturia Minibrute 2S with a bunch of Eurorack modules on a 6U Rackbrute
+- Synthstrom Deluge
+- Novation Circuit
+- Roland JD-Xi
 
-What else do you need?
+<!-- ### my history -->
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
