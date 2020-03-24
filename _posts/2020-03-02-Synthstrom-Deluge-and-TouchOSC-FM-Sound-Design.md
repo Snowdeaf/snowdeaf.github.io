@@ -6,6 +6,8 @@ tags: [synthstrom deluge, touchosc]
 youtube_id: o1c0wlwR_ag
 ---
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ post.youtube_id }}?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
+ <div class="embed-responsive embed-responsive-16by9" >
+    <iframe class="embed-responsive-item"  src="https://www.youtube.com/embed/{{ page.youtube_id }}"></iframe>
+ </div>       
+
