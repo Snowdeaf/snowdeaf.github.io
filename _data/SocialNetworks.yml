@@ -71,6 +71,12 @@ telephone:
   name: "Phone"
   urlTemplate: "tel:{value}"
   icon: "fas fa-phone"
+    
+soundcloud:
+  name: "Soundcloud"
+  urlTemplate: "https://soundcloud.com/{value}"
+  icon: "fab fa-soundcloud"
+
 
 rss:
   name: "RSS"
