@@ -31,20 +31,24 @@ use-site-title: true
       </div>
       {% endif %}
       
+
+      {% if post.instagram_id %}
+
+        <div class="nuunuu" >
+
+        # Instagram post
+       
+        </div>       
+      {% endif %}
+
+
       {% if post.youtube_id %}
         <div class="embed-responsive embed-responsive-16by9" >
         <iframe class="embed-responsive-item"  src="https://www.youtube.com/embed/{{ post.youtube_id }}"></iframe>
         </div>       
       {% endif %}
 
-{% if post.instagram_id %}
-
-        <div class="nuunuu" >
-
-# Instagram post
-       
-        </div>       
-      {% endif %}
+     
 
       <div class="post-entry">
         {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
