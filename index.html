@@ -36,6 +36,14 @@ use-site-title: true
         <iframe class="embed-responsive-item"  src="https://www.youtube.com/embed/{{ post.youtube_id }}"></iframe>
         </div>       
       {% endif %}
+
+{% if post.instagram_id %}
+        <div class="embed-responsive embed-responsive-16by9" >
+{{ include "instagram.html"}}
+       
+        </div>       
+      {% endif %}
+
       <div class="post-entry">
         {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
