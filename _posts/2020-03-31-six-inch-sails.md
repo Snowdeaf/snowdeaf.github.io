@@ -2,7 +2,7 @@
 title: Six Inch Nails
 date: 2020-03-31 12:00:00 +0300
 categories: [Blogging, Instagram]
-tags: [Minibrute, eurorack]
+tags: [minibrute, eurorack]
 instagram_id: B-aCwbchTnG
 ---
 
