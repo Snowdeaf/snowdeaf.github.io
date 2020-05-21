@@ -1,5 +1,5 @@
 ---
-title: Quarantine Jam #2
+title: Quarantine Jam 2
 date: 2020-05-21 12:00:00 +0300
 categories: [Blogging, Youtube]
 tags: [minibrute]
