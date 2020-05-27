@@ -1,5 +1,5 @@
 ---
-title: Beatmaker 3 multisampling made easy
+title: Beatmaker 3 Multisampling Made Easy
 date: 2020-05-27 12:00:00 +0300
 categories: [Blogging, Youtube]
 tags: [iosmusic, beatmaker, multisampling]
