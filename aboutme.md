@@ -1,16 +1,20 @@
 ---
 layout: page
-title:
+title: Electronic music and tutorial videos
 subtitle:
 ---
 
-Snowdeaf
+### Snowdeaf
+- Electronic music production from Helsinki, Finland
 
-- Electronic music and tutorial videos
+
+### Gear 
+
 - Arturia Minibrute 2S with a bunch of Eurorack modules on a 6U Rackbrute
 - Synthstrom Deluge
 - Novation Circuit
 - Roland JD-Xi
-
-<!-- ### my history -->
+- Empress Effects ZOIA
+- Akai MPD226
+- guitars, basses, effects etc
 

@@ -66,18 +66,19 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+#  rss: true
 #  email: "someone@example.com"
-  facebook: snowdeaf
-  github: snowdeaf
+  youtube: channel/UCo9DhcaG04jpD6MuHAhnJXA
+  instagram: snowdeaf
+  soundcloud: snowdeaf
   twitter: snowdeaf
+  facebook: snowdeaf
+#  github: snowdeaf
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: snowdeaf
-  youtube: channel/UCo9DhcaG04jpD6MuHAhnJXA
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -159,7 +160,7 @@ timezone: "Europe/Helsinki"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 8
 
 kramdown:
   input: GFM
