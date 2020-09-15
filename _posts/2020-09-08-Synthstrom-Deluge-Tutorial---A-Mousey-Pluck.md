@@ -2,7 +2,7 @@
 title: Synthstrom Deluge Tutorial - A Mousey Pluck
 date: 2020-09-08 16:17:38 +0300
 categories: [Blogging, Youtube]
-tags:[synthstrom deluge]
+tags: [synthstrom deluge]
 youtube_id: FGkRxasSGsg
 ---
 
