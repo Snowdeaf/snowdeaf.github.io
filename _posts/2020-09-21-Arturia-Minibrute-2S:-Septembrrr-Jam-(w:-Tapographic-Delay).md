@@ -1,5 +1,5 @@
 ---
-title: Arturia Minibrute 2S: Septembrrr Jam (w/ Tapographic Delay)
+title: Arturia Minibrute 2S - Septembrrr Jam (w/ Tapographic Delay)
 date: 2020-09-21 14:19:45 +0300
 categories: [Blogging, Youtube]
 tags: [Minibrute 2S, tapographic delay]
