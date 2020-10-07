@@ -2,7 +2,7 @@
 title: Eruption tribute 
 date: 2020-10-07 08:00:00 +0300
 categories: [blogging, instagram]
-tags: [synthstrom deluge, so, make noise]
+tags: [synthstrom deluge, sto, make noise]
 instagram_id: CGC7LbuByUX
 ---
 

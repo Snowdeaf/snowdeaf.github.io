@@ -2,7 +2,7 @@
 title: Arturia Minibrute 2S - Grungy Jam (Patch from Scratch)
 date: 2020-09-29 18:03:24 +0300
 categories: [Blogging, Youtube]
-tags: [Minibrute 2S]
+tags: [minibrute]
 youtube_id: jIVBaB4INyo
 ---
 
