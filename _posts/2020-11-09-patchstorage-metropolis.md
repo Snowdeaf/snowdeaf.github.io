@@ -11,3 +11,6 @@ Download the ZOIA patch based on the Intellijel Metropolis on <https://patchstor
    [my link]({{ site.baseurl }}{% link _my_collection/my-file.md %})
   [my link](my/correct/path)
   [link text](https://google.com)
+
+
+<a href="">patchstorage</a>
