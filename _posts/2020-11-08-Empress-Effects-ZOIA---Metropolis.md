@@ -2,7 +2,7 @@
 title: Empress Effects ZOIA Metropolis
 date: 2020-11-08 16:34:41 +0200
 categories: [Blogging, Youtube]
-tags: [Zoia]
+tags: [zoia]
 youtube_id: zwTrV5mpG_M
 ---
 
