@@ -5,4 +5,4 @@ categories: [Blogging, patchstorage]
 tags: [Zoia]
 ---
 
-The ZOIA patch based on the Intellijel Metropolis on <a href="https://patchstorage.com/author/snowdeaf/">Patchstorage</a>.
+The ZOIA patch based on the Intellijel Metropolis on [Patchstorage](https://patchstorage.com/author/snowdeaf/).
