@@ -2,7 +2,7 @@
 title: Ebow the chords with Zoia
 date: 2020-10-24 19:39:35 +0300
 categories: [Blogging, Youtube]
-tags: [Zoia, ebow]
+tags: [zoia, ebow]
 youtube_id: qSOrdTYp0hw
 ---
 
