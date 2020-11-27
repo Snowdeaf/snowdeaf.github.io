@@ -2,7 +2,7 @@
 title: Zoia Lil' Pulzar
 date: 2020-11-25 21:58:13 +0200
 categories: [Blogging, Youtube]
-tags: [Zoia, pulsar]
+tags: [zoia, pulsar]
 youtube_id: wbTBZUMQm0U
 ---
 
