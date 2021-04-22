@@ -1,5 +1,5 @@
 ---
-title: ZOIA Verygate
+title: Zoia Verygate
 date: 2021-04-22 12:20:20 +0300
 categories: [Blogging, Youtube]
 tags: [zoia, varigate, eurorack, sequencer]
