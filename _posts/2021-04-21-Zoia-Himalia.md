@@ -1,5 +1,5 @@
 ---
-title: ZOIA and Himalia
+title: Zoia and Himalia
 date: 2021-04-21 12:20:20 +0300
 categories: [Blogging, Youtube]
 tags: [zoia, himalia, eurorack, sequencer]
