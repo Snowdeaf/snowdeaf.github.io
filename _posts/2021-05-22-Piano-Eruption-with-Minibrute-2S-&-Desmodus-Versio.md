@@ -2,7 +2,7 @@
 title: Piano Eruption with Minibrute 2S & Desmodus Versio
 date: 2021-05-22 14:30:04 +0300
 categories: [Blogging, Youtube]
-tags: [Minibrute, desmodus versio, eurorack]
+tags: [minibrute, desmodus versio, eurorack]
 youtube_id: LvO96eyVtYo
 ---
 
