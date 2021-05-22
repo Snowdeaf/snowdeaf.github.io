@@ -2,7 +2,7 @@
 title: Mellowing
 date: 2020-10-09 08:00:00 +0300
 categories: [blogging, instagram]
-tags: [minibrute 2s, telharmonic, sto, math, disting mk4, pico dsp, wasp filter]
+tags: [minibrute, telharmonic, sto, math, disting mk4, pico dsp, wasp filter]
 instagram_id: CGIbZNmhHWQ
 ---
 
