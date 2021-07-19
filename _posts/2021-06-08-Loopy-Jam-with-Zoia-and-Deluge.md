@@ -2,7 +2,7 @@
 title: Loopy Jam with Zoia and Deluge
 date: 2021-06-08 12:35:42 +0300
 categories: [Blogging, Youtube]
-tags: [zoia, deluge]
+tags: [zoia, synthstrom deluge]
 youtube_id: JCed3kBetUU
 ---
 

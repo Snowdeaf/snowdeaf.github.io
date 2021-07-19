@@ -2,7 +2,7 @@
 title: Don't rip off the prodigy (Synthstrom Deluge)
 date: 2021-07-10 17:40:38 +0300
 categories: [Blogging, Youtube]
-tags: [deluge]
+tags: [synthstrom deluge]
 youtube_id: 1XnRIb3IdCQ
 ---
 
