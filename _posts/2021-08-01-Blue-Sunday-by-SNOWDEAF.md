@@ -12,8 +12,3 @@ youtube_id: KTTGfYu4q7o
 </div>
 
 A quick Sunday jam getting to know the wonderful Eloquencer by Winter Modular.
-
-
-❄️ TWITTER - http://twitter.com/snowdeaf 
-❄️ INSTAGRAM - https://instagram.com/snowdeaf
-❄️ WEBSITE - http://www.snowdeaf.com
