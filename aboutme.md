@@ -10,6 +10,7 @@ subtitle:
 
 ### Gear 
 
+- ASM Hydrasynth Keyboard
 - Arturia Minibrute 2S with a bunch of Eurorack modules on a 6U Rackbrute
 - Synthstrom Deluge
 - Novation Circuit
