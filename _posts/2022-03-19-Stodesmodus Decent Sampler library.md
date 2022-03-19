@@ -8,4 +8,7 @@ image: [stodesmodus.jpg]
 
 
 
-Download the dslibrary file for Stodesmodus <a href="https://www.mediafire.com/file/x44ik78djgrc9ld/STODESMODUS.dslibrary/file">here</a>.
+Download the Stodesmodus instrument.
+
+
+<a href="https://www.mediafire.com/file/x44ik78djgrc9ld/STODESMODUS.dslibrary/file">Download</a> dslibrary.
