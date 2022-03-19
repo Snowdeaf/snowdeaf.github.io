@@ -1,16 +1,17 @@
 ---
-title: Stodesmodus Decent Sampler Library
-date: 2022-03-19 22:38:05 +0200
+title: Et tu, Brute (Arturia Minibrute 2S)
+date: 2022-03-03 17:38:05 +0200
 categories: [Blogging, Youtube]
-tags: [decent sampler, eurorack]
-image: img/stodesmodus.jpg
+tags: [Minibrute]
+youtube_id: 7b87FApayH4
 ---
 
 
-A FREE Decent Sampler instrument.
+<div class="embed-responsive embed-responsive-16by9" >
+    <iframe class="embed-responsive-item"  src="https://www.youtube.com/embed/{{ page.youtube_id }}"></iframe>
+</div>
 
-![Download Stodesmodus](/img/stodesmodus.jpg)
+A quick jam with the Arturia Minibrute 2S.
+Some reverb added in 1010music Bluebox.
 
-Make Noise STO Oscillator into Noise Engineering Desmodus Versio reverb multisampled and converted into Decent Sampler dslibrary.
-
-Download the dslibrary <a href="https://www.mediafire.com/file/x44ik78djgrc9ld/STODESMODUS.dslibrary/file">here</a> 
+Enjoy!
