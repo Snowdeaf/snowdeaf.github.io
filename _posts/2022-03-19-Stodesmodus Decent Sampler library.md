@@ -14,4 +14,3 @@ A FREE Decent Sampler instrument.
 Make Noise STO Oscillator into Noise Engineering Desmodus Versio reverb multisampled and converted into Decent Sampler Format.
 
 Download the dslibrary <a href="https://www.mediafire.com/file/x44ik78djgrc9ld/STODESMODUS.dslibrary/file">here</a> 
-<a href="https://www.mediafire.com/file/x44ik78djgrc9ld/STODESMODUS.dslibrary/file">Download</a> dslibrary.
