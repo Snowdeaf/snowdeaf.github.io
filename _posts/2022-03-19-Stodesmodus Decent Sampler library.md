@@ -10,5 +10,6 @@ image: stodesmodus.jpg
 
 Download the Stodesmodus instrument.
 
+![Download Stodesmodus](/assets/stodesmodus.jpg)
 
 <a href="https://www.mediafire.com/file/x44ik78djgrc9ld/STODESMODUS.dslibrary/file">Download</a> dslibrary.
