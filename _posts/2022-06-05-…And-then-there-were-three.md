@@ -8,4 +8,3 @@ instagram_id: CeazMmJDHME
 
 
 {% include instagram.html %}
-
