@@ -2,7 +2,7 @@
 title: Stresslessness - Live looping with Moog Mavis & Synthstrom Deluge
 date: 2022-07-10 15:12:01 +0300
 categories: [Blogging, Youtube]
-tags: [moog mavis, deluge]
+tags: [moog mavis, synthstrom deluge]
 youtube_id: _tjjnuJaQGI
 ---
 
