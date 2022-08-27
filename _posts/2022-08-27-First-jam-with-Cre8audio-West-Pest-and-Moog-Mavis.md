@@ -2,7 +2,7 @@
 title: First jam with Cre8audio West Pest and Moog Mavis
 date: 2022-08-27 14:47:29 +0300
 categories: [Blogging, Youtube]
-tags: [West pest, Moog mavis]
+tags: [west pest, moog mavis]
 youtube_id: c5arAUNHw4k
 ---
 
