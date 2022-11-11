@@ -2,7 +2,7 @@
 title: FREE Decent Sampler Instrument | Eurorack STO Desmodus Versio
 date: 2022-03-19 23:20:24 +0200
 categories: [Blogging, Youtube]
-tags: [decent sampler]
+tags: [decent sampler, downloads]
 youtube_id: jg1gOQd_EFE
 ---
 
