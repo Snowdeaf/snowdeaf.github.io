@@ -77,7 +77,7 @@ soundcloud:
   urlTemplate: "https://soundcloud.com/{value}"
   icon: "fab fa-soundcloud"
 
-Mastodon:
+mastodon:
   name: "Mastodon"
   urlTemplate: "https://sunny.garden/@{value}/"
   icon: "fab fa-mastodon"
