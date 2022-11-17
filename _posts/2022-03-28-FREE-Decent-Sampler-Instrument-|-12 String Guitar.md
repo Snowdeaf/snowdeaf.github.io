@@ -2,7 +2,7 @@
 title: FREE Decent Sampler Instrument | 12 String Les Paul
 date: 2022-03-19 23:20:24 +0200
 categories: [Blogging, Youtube]
-tags: [decent sampler]
+tags: [decent sampler, downloads]
 youtube_id: Uz4fmtCgUsk
 ---
 

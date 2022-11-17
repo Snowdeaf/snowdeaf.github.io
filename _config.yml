@@ -20,11 +20,11 @@ description: electronic music production
 
 # List of links in the navigation bar
 navbar-links:
+  Downloads: "https://snowdeaf.com/tags/#downloads"
   About Me: "aboutme"
 #  Resources:
 #    - YouTube: "https://www.youtube.com/channel/UCo9DhcaG04jpD6MuHAhnJXA/featured"
 #    - Instagram: "http://www.markdowntutorial.com/"
-#  Snowdeaf: "http://snowdeaf.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -73,6 +73,7 @@ social-network-links:
   soundcloud: snowdeaf
   twitter: snowdeaf
   facebook: snowdeaf
+  mastodon: snowdeaf
 #  github: snowdeaf
 #  reddit: yourname
 #  linkedin: daattali
