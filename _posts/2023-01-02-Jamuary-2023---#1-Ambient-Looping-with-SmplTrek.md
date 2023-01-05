@@ -1,5 +1,5 @@
 ---
-title: Jamuary 2023 - 1 Ambient Looping with SmplTrek
+title: Ambient Looping with SmplTrek
 date: 2023-01-02 15:08:29 +0200
 categories: [Blogging, Youtube]
 tags: [smpltrek, ambient, jamuary]
