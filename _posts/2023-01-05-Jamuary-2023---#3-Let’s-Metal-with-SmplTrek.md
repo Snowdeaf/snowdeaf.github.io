@@ -1,8 +1,8 @@
 ---
-title: Jamuary 2023 - #3 Let’s Metal with SmplTrek
+title: Let’s Metal with SmplTrek
 date: 2023-01-05 18:10:36 +0200
 categories: [Blogging, Youtube]
-tags: [smpltrek]
+tags: [smpltrek, jamuary]
 youtube_id: 0-wJBBZZy3I
 ---
 
