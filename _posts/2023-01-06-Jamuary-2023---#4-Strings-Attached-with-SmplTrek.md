@@ -1,5 +1,5 @@
 ---
-title: Jamuary 2023 - #4 Strings Attached with SmplTrek
+title: Strings Attached with SmplTrek
 date: 2023-01-06 22:07:12 +0200
 categories: [Blogging, Youtube]
 tags: [smpltrek]
