@@ -2,7 +2,7 @@
 title: Mellowing
 date: 2020-10-09 08:00:00 +0300
 categories: [Blogging, Youtube]
-tags: [minibrute, telharmonic, sto, math, disting mk4, pico dsp, wasp filter]
+tags: [minibrute, telharmonic, sto, maths, disting mk4, pico dsp, wasp filter]
 youtube_id: ICowMooxRF8
 ---
 
