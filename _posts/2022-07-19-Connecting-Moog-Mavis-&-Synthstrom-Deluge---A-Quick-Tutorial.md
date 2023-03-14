@@ -2,7 +2,7 @@
 title: Connecting Moog Mavis & Synthstrom Deluge - A Quick Tutorial
 date: 2022-07-19 21:13:04 +0300
 categories: [Blogging, Youtube]
-tags: [Moog Mavis, Synthstrom Deluge]
+tags: [moog mavis, synthstrom deluge]
 youtube_id: EbFfZNNkA7o
 ---
 
