@@ -1,5 +1,5 @@
 ---
-title: Hydrasynth Program Switcher for TouchOSC
+title: Hydrasynth Preset Switcher for TouchOSC
 date: 2023-03-25 08:00:00 +0300
 categories: [blogging, instagram]
 tags: [touchosc, hydrasynth, downloads]
