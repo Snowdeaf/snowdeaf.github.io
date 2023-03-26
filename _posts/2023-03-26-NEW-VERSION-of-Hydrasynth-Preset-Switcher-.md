@@ -7,3 +7,5 @@ instagram_id: CqQC3-TjaLM
 ---
 
 {% include instagram.html %}
+
+Download template <a href="https://www.mediafire.com/file/tbvjrjsokik9y1e/HydraPresetSwitcher2.tosc/file">here</a>.
