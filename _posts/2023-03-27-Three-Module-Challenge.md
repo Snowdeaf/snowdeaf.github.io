@@ -1,6 +1,6 @@
 ---
 title: 3 Module Challenge - Batumi, Plaits, Yester Versio
-date: 2022-09-03 18:51:25 +0300
+date: 2023-03-27 13:51:25 +0300
 categories: [Blogging, Youtube]
 tags: [eurorack, plaits, batumi, yester versio]
 youtube_id: m5LR3S1dzQA
