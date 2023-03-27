@@ -1,9 +1,9 @@
 ---
-title: Mellowing
-date: 2020-10-09 08:00:00 +0300
+title: Strings Attached with SmplTrek
+date: 2023-01-06 22:07:12 +0200
 categories: [Blogging, Youtube]
-tags: [minibrute, telharmonic, sto, maths, disting mk4, pico dsp, wasp filter]
-youtube_id: ICowMooxRF8
+tags: [smpltrek]
+youtube_id: LUiiM22lJqg
 ---
 
 
@@ -11,4 +11,4 @@ youtube_id: ICowMooxRF8
     <iframe class="embed-responsive-item"  src="https://www.youtube.com/embed/{{ page.youtube_id }}"></iframe>
 </div>
 
----
+A jam with Sonicware SmplTrek using Berlin Orchestra samples by Orchestral Tools.
