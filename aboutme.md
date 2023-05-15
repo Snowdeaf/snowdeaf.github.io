@@ -19,3 +19,4 @@ subtitle:
 - Akai MPD226
 - guitars, basses, effects etc
 
+<halmkrona janneh@gmail.com>
