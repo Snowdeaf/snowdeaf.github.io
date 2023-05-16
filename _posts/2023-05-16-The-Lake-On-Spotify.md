@@ -5,5 +5,5 @@ categories: [blogging, spotify]
 tags: [spotify]
 ---
 
+{% spotify spotify:track:c197bde526484bb3 %}
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3Ac197bde526484bb3" width="100%" height="300" frameborder="0" allowtransparency="true"></iframe>
