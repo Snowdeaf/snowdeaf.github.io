@@ -1,5 +1,5 @@
 ---
-title: FREE Decent Sampler Instrument | 12 String Les Paul
+title: FREE Decent Sampler Instrument | 12 String Les Paul w Trem
 date: 2024-03-21 16:10:24 +0200
 categories: [Blogging, Youtube]
 tags: [decent sampler, downloads]
@@ -12,9 +12,9 @@ youtube_id: Uz4fmtCgUsk
 
 A FREE Decent Sampler instrument.
 
-12 String Guitar made from a 6 string 1978 Les Paul Silverburst
+A six string 1978 Les Paul Silverburst sampled twice to create a 12 string Les Paul.
 
-NEW UPDATED VERSION with a cool Tremolo effect.
-Idea unashamedly copied from David Hilowitz's <a href="https://www.decentsamples.com/product/stella-mandolin/">Mandolin</a> instrument.
+NEW UPDATED VERSION with a cool tremolo effect.
+Idea unashamedly copied from David Hilowitz's <a target="_blank" href="https://www.decentsamples.com/product/stella-mandolin/">Mandolin</a> instrument.
 
-<a href="https://www.mediafire.com/file/2vt4eykwt7thozt/12_String_Les_Paul_w_Trem.dslibrary/file">DOWNLOAD</a> the 12 String Les Paul with Trem instrument.
+<a href="https://www.mediafire.com/file/0b2kjefa8ufcck7/12_String_Les_Paul_w_Tremolo.dslibrary/file">DOWNLOAD</a> the 12 String Les Paul with Trem instrument.
