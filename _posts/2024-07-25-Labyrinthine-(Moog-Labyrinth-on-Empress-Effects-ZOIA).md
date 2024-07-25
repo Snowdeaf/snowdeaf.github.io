@@ -2,7 +2,7 @@
 title: Labyrinthine (Moog Labyrinth on Empress Effects ZOIA)
 date: 2024-07-25 15:45:48 +0300
 categories: [Blogging, Youtube]
-tags: [Labyrinthine]
+tags: [zoia]
 youtube_id: HzMN9YnIDpM
 ---
 
