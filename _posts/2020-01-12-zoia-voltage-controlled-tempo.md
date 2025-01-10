@@ -2,7 +2,7 @@
 title: Empress Effects ZOIA - Voltage controlled tempo
 date: 2020-01-12 11:00:00 +0800
 categories: [Blogging, Youtube]
-tags: [empress effects zoia] 
+tags: [zoia] 
 youtube_id: VvPoibhvKOY
 ---
 
