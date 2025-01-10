@@ -1,9 +1,9 @@
 ---
-title: Jamuary 2025 - Day 10 - Not Brutal at all on MiniBrute 2S
+title: Jamuary 2025 - Day 9 - Brutal Disco on MiniBrute 2S
 date: 2025-01-10 22:02:48 +0200
 categories: [Blogging, Youtube]
 tags: [minibrute]
-youtube_id: XE18kMJyFBI
+youtube_id: C7qhLY4yciM
 ---
 
 
@@ -11,4 +11,4 @@ youtube_id: XE18kMJyFBI
     <iframe class="embed-responsive-item"  src="https://www.youtube.com/embed/{{ page.youtube_id }}"></iframe>
 </div>
 
-Another quickie on Arturia MiniBrute 2S. Direct audio from the Brute. No effects.
+Getting gritty on the Arturia MiniBrute 2S. Direct audio from the Brute. No effects.
