@@ -2,7 +2,7 @@
 title: Zlicer Prog - Programmable Slicer effect for Empress ZOIA
 date: 2024-12-16 23:44:36 +0200
 categories: [Blogging, Youtube]
-tags: [Zoia]
+tags: [zoia]
 youtube_id: GuckVV-q0TA
 ---
 
