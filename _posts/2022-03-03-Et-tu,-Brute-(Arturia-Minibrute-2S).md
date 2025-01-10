@@ -2,7 +2,7 @@
 title: Et tu, Brute (Arturia Minibrute 2S)
 date: 2022-03-03 17:38:05 +0200
 categories: [Blogging, Youtube]
-tags: [Minibrute]
+tags: [minibrute]
 youtube_id: 7b87FApayH4
 ---
 
