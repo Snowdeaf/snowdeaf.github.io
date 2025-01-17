@@ -11,6 +11,6 @@ youtube_id: hvDQbOc-cKk
     <iframe class="embed-responsive-item"  src="https://www.youtube.com/embed/{{ page.youtube_id }}"></iframe>
 </div>
 
-Live jamming on the Arturia MiniBrute 2S. 
+Live jamming on the Arturia MiniBrute 2S.
 
 Empress Effects Zoia sweetening with some delay and ghostverb.
