@@ -13,6 +13,7 @@ subtitle:
 - ASM Hydrasynth Keyboard - [#hydrasynth](/tags#hydrasynth)
 - Arturia Minibrute 2S with a bunch of Eurorack modules on a couple of 6U Rackbrutes - [#minibrute](/tags#minibrute) [#eurorack](/tags#eurorack)
 - Synthstrom Deluge - [#synthstrom deluge](/tags#synthstrom-deluge)
+- Smpltrek - [#smpltrek](/tags#smpltrek)
 - Novation Circuit
 - Roland JD-Xi
 - Empress Effects ZOIA - [#zoia](/tags#zoia)
