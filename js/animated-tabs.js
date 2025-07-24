@@ -77,11 +77,21 @@
 
             // Handle tab clicks
             $triggers.on('click', function(e) {
-                e.preventDefault();
                 var $clickedTab = $(this).closest('.animated-tab');
+                var href = $(this).attr('href');
                 
-                if (!$(this).hasClass(settings.activeClass)) {
-                    setActiveTab($clickedTab);
+                // Only prevent default for hash links (tab content switching)
+                if (href && href.startsWith('#')) {
+                    e.preventDefault();
+                    if (!$(this).hasClass(settings.activeClass)) {
+                        setActiveTab($clickedTab);
+                    }
+                } else {
+                    // For regular links, just update the indicator before navigation
+                    if (!$(this).hasClass(settings.activeClass)) {
+                        setActiveTab($clickedTab, true);
+                    }
+                    // Let the browser handle the navigation naturally
                 }
             });
 
