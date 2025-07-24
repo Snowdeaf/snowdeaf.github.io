@@ -165,9 +165,15 @@ permalink: /:year-:month-:day-:title/
 paginate: 12
 
 # Performance optimizations
-safe: true
 lsi: false
 excerpt_separator: "\n\n"
+incremental: true
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [development]
 
 kramdown:
   input: GFM
