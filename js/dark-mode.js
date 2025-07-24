@@ -1,16 +1,23 @@
 // Dark Mode Toggle Functionality
 
-// Check for saved theme preference or default to light mode
-const currentTheme = localStorage.getItem('theme') || 'light';
-const themeIcon = document.getElementById('theme-icon');
-
-// Apply the saved theme on page load
-document.documentElement.setAttribute('data-theme', currentTheme);
-updateThemeIcon(currentTheme);
+// Wait for DOM to be ready
+document.addEventListener('DOMContentLoaded', function() {
+    // Check for saved theme preference or default to light mode
+    const currentTheme = localStorage.getItem('theme') || 'light';
+    const themeIcon = document.getElementById('theme-icon');
+    
+    // Apply the saved theme on page load
+    document.documentElement.setAttribute('data-theme', currentTheme);
+    updateThemeIcon(currentTheme);
+    
+    console.log('Dark mode initialized, current theme:', currentTheme);
+});
 
 function toggleTheme() {
     const currentTheme = document.documentElement.getAttribute('data-theme');
     const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    
+    console.log('Toggling theme from', currentTheme, 'to', newTheme);
     
     // Apply new theme
     document.documentElement.setAttribute('data-theme', newTheme);
@@ -23,10 +30,14 @@ function toggleTheme() {
     
     // Add a little animation feedback
     const toggleBtn = document.querySelector('.theme-toggle');
-    toggleBtn.style.transform = 'scale(0.95)';
-    setTimeout(() => {
-        toggleBtn.style.transform = 'scale(1)';
-    }, 150);
+    if (toggleBtn) {
+        toggleBtn.style.transform = 'scale(0.95)';
+        setTimeout(() => {
+            toggleBtn.style.transform = 'scale(1)';
+        }, 150);
+    }
+    
+    console.log('Theme toggled, data-theme attribute:', document.documentElement.getAttribute('data-theme'));
 }
 
 function updateThemeIcon(theme) {

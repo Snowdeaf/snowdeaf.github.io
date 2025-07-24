@@ -35,9 +35,19 @@
 [data-theme="dark"] body,
 [data-theme="dark"] .container,
 [data-theme="dark"] .main-content {
-  background-color: var(--bg-color) !important;
-  color: var(--text-color) !important;
+  background-color: #1a1a1a !important;
+  color: #e0e0e0 !important;
   transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Test - force dark on html element */
+html[data-theme="dark"] {
+  background-color: #1a1a1a !important;
+}
+
+html[data-theme="dark"] body {
+  background-color: #1a1a1a !important;
+  color: #e0e0e0 !important;
 }
 
 /* Navbar - more specific selectors */
