@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 8 - Arpeggiate Wildly
 date: 2025-01-08 21:14:53 +0200
 categories: [Blogging, Youtube]
-tags: [synthstrom deluge]
+tags: [synthstrom deluge, jamuary]
 youtube_id: -aFuA1vIP7s
 ---
 

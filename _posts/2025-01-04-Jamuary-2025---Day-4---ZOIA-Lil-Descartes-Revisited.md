@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 4 - ZOIA Lil Descartes Revisited
 date: 2025-01-04 18:46:13 +0200
 categories: [Blogging, Youtube]
-tags: [zoia]
+tags: [zoia, jamuary]
 youtube_id: i3WfrdBllAs
 ---
 

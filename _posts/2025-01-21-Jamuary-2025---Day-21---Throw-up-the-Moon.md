@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 21 - Throw up the Moon
 date: 2025-01-21 19:35:38 +0200
 categories: [Blogging, Youtube]
-tags: [synthstrom deluge, minibrute]
+tags: [synthstrom deluge, minibrute, jamuary]
 youtube_id: zCZ5ayIUGDo
 ---
 

@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 1 - DX7 on Deluge
 date: 2025-01-01 20:45:03 +0200
 categories: [Blogging, Youtube]
-tags: [synthstrom deluge]
+tags: [synthstrom deluge, jamuary]
 youtube_id: sOyj2B_KEBE
 ---
 

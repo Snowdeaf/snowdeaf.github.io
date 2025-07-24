@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 28 - Mild Deluge, Maximum Chill
 date: 2025-01-28 15:56:02 +0200
 categories: [Blogging, Youtube]
-tags: [synthstrom deluge]
+tags: [synthstrom deluge, jamuary]
 youtube_id: Uk7BZ8j7SQw
 ---
 

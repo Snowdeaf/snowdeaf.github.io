@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 10 - Not Brutal at all on MiniBrute 2S
 date: 2025-01-10 22:02:48 +0200
 categories: [Blogging, Youtube]
-tags: [minibrute]
+tags: [minibrute, jamuary]
 youtube_id: XE18kMJyFBI
 ---
 

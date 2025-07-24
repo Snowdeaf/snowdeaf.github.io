@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 20 - Uneven Grace
 date: 2025-01-20 20:39:40 +0200
 categories: [Blogging, Youtube]
-tags: [synthstrom deluge, minibrute]
+tags: [synthstrom deluge, minibrute, jamuary]
 youtube_id: EhW_71s_DO4
 ---
 

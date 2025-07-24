@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 15 - Strike a Transpose on Deluge
 date: 2025-01-15 21:57:41 +0200
 categories: [Blogging, Youtube]
-tags: [synthstrom deluge]
+tags: [synthstrom deluge, jamuary]
 youtube_id: kCn_2u4GQ0w
 ---
 

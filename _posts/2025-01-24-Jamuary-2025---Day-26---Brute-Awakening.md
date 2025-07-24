@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 26 - Brute Awakening
 date: 2025-01-25 13:21:59 +0200
 categories: [Blogging, Youtube]
-tags: [minibrute]
+tags: [minibrute, jamuary]
 youtube_id: PO1DDmAohJM
 ---
 

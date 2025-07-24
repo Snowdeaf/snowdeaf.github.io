@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 9 - Brutal Disco on MiniBrute 2S
 date: 2025-01-10 22:02:48 +0200
 categories: [Blogging, Youtube]
-tags: [minibrute]
+tags: [minibrute, jamuary]
 youtube_id: C7qhLY4yciM
 ---
 

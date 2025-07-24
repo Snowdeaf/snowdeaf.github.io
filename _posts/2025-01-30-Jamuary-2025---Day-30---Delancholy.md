@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 30 - Delancholy
 date: 2025-01-30 17:52:44 +0200
 categories: [Blogging, Youtube]
-tags: [synthstrom deluge]
+tags: [synthstrom deluge, jamuary]
 youtube_id: nYSvRNVeFDQ
 ---
 

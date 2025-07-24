@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 12 - Grungy DX7 Jam on Deluge
 date: 2025-01-12 20:39:21 +0200
 categories: [Blogging, Youtube]
-tags: [synthstrom deluge]
+tags: [synthstrom deluge, jamuary]
 youtube_id: n2MoCI6ZTKs
 ---
 

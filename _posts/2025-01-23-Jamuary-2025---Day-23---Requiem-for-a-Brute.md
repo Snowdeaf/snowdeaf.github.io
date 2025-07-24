@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 23 - Requiem for a Brute
 date: 2025-01-23 13:21:59 +0200
 categories: [Blogging, Youtube]
-tags: [minibrute, zoia]
+tags: [minibrute, zoia, jamuary]
 youtube_id: yFRPLHyR4T0
 ---
 

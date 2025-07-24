@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 3 - Velocity Drums on Deluge
 date: 2025-01-03 23:39:53 +0200
 categories: [Blogging, Youtube]
-tags: [synthstrom deluge]
+tags: [synthstrom deluge, jamuary]
 youtube_id: 4PvgzTJU-n8
 ---
 

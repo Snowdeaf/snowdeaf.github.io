@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 7 - Return to Labyrinthine
 date: 2025-01-07 18:12:26 +0200
 categories: [Blogging, Youtube]
-tags: [zoia]
+tags: [zoia, jamuary]
 youtube_id: PoLap-iQv0Y
 ---
 

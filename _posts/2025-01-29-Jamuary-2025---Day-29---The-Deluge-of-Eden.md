@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 29 - The Deluge of Eden
 date: 2025-01-29 15:56:02 +0200
 categories: [Blogging, Youtube]
-tags: [synthstrom deluge]
+tags: [synthstrom deluge, jamuary]
 youtube_id: mrI9lXMbb0M
 ---
 

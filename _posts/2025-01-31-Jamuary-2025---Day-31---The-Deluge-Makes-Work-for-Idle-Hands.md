@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 31 - The Deluge Makes Work for Idle Hands
 date: 2025-01-31 18:05:42 +0200
 categories: [Blogging, Youtube]
-tags: [synthstrom deluge]
+tags: [synthstrom deluge, jamuary]
 youtube_id: 7K7Je3O9Iv0
 ---
 

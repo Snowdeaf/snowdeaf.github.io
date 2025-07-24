@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 24 - Brute by Brute
 date: 2025-01-24 13:21:59 +0200
 categories: [Blogging, Youtube]
-tags: [minibrute]
+tags: [minibrute, jamuary]
 youtube_id: hSypdSGSshs
 ---
 

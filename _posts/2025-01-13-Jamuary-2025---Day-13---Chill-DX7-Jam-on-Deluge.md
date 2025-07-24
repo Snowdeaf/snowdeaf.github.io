@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 13 - Chill DX7 Jam on Deluge
 date: 2025-01-13 20:09:08 +0200
 categories: [Blogging, Youtube]
-tags: [synthstrom deluge]
+tags: [synthstrom deluge, jamuary]
 youtube_id: FAJ1zeXumcI
 ---
 

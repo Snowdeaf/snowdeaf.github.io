@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 22 - Master of Brutes
 date: 2025-01-22 13:21:59 +0200
 categories: [Blogging, Youtube]
-tags: [synthstrom deluge, minibrute]
+tags: [synthstrom deluge, minibrute, jamuary]
 youtube_id: ckP8mgTfbQI
 ---
 

@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 27 - Fuzz Deluge Forecast
 date: 2025-01-27 20:49:44 +0200
 categories: [Blogging, Youtube]
-tags: [synthstrom deluge]
+tags: [synthstrom deluge, jamuary]
 youtube_id: WO2BprCv8Ps
 ---
 

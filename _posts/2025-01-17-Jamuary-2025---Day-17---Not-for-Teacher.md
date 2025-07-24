@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 17 - Not for Teacher
 date: 2025-01-17 22:11:16 +0200
 categories: [Blogging, Youtube]
-tags: [minibrute, smpltrek]
+tags: [minibrute, smpltrek, jamuary]
 youtube_id: M_s_ZKOKQs8
 ---
 

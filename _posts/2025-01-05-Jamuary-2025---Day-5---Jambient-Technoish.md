@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 5 - Jambient Technoish
 date: 2025-01-05 13:05:07 +0200
 categories: [Blogging, Youtube]
-tags: [synthstrom deluge]
+tags: [synthstrom deluge, jamuary]
 youtube_id: pJcNAWoN_Fc
 ---
 

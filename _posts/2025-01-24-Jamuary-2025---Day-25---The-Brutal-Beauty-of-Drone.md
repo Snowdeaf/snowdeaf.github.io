@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 25 - The Brutal Beauty of Drone
 date: 2025-01-25 13:21:59 +0200
 categories: [Blogging, Youtube]
-tags: [minibrute]
+tags: [minibrute, jamuary]
 youtube_id: NsHFfoZFJdw
 ---
 

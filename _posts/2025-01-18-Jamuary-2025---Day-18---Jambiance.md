@@ -2,7 +2,7 @@
 title: Jamuary 2025 - Day 18 - Jambiance
 date: 2025-01-18 20:53:55 +0200
 categories: [Blogging, Youtube]
-tags: [synthstrom deluge, minibrute]
+tags: [synthstrom deluge, minibrute, jamuary]
 youtube_id: OiE5jgsyUew
 ---
 
