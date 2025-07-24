@@ -1,7 +1,9 @@
 // Dark Mode Toggle Functionality
+console.log('Dark mode script loaded!');
 
 // Wait for DOM to be ready
 document.addEventListener('DOMContentLoaded', function() {
+    console.log('DOM ready, initializing dark mode...');
     // Check for saved theme preference or default to light mode
     const currentTheme = localStorage.getItem('theme') || 'light';
     const themeIcon = document.getElementById('theme-icon');
