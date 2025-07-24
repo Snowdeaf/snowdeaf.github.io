@@ -21,6 +21,7 @@ description: electronic music production
 # List of links in the navigation bar
 navbar-links:
   Downloads: "https://snowdeaf.com/tags/#downloads"
+  Tags: "tags"
   About Me: "aboutme"
 #  Resources:
 #    - YouTube: "https://www.youtube.com/channel/UCo9DhcaG04jpD6MuHAhnJXA/featured"
