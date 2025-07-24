@@ -5,17 +5,16 @@ subtitle:
 ---
 
 ### Snowdeaf
+
 - Electronic music production from Helsinki, Finland
 
-
-### Gear 
+### Gear
 
 - ASM Hydrasynth Keyboard - [#hydrasynth](/tags#hydrasynth)
 - Arturia Minibrute 2S with a bunch of Eurorack modules on a couple of 6U Rackbrutes - [#minibrute](/tags#minibrute) [#eurorack](/tags#eurorack)
 - Synthstrom Deluge - [#synthstrom deluge](/tags#synthstrom-deluge)
-- Novation Circuit - [#circuit](/tags#circuit)
-- Roland JD-Xi - [#jd-xi](/tags#jd-xi)
+- Novation Circuit
+- Roland JD-Xi
 - Empress Effects ZOIA - [#zoia](/tags#zoia)
-- Akai MPD226 - [#mpd226](/tags#mpd226)
+- Akai MPD226
 - guitars, basses, effects etc - [#guitar](/tags#guitar)
-
