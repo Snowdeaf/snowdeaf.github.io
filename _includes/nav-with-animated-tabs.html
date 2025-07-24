@@ -1,0 +1,104 @@
+<!-- Alternative navigation with animated tabs integration -->
+<nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      {%- if site.avatar -%}
+        <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}">
+          <img src="{{ site.avatar | relative_url }}" class="navbar-avatar-img" />
+          <span class="navbar-brand-text">{{ site.title }}</span>
+        </a>
+      {%- elsif site.title-img -%}
+        <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img src="{{ site.title-img }}"/></a>
+      {%- else -%}
+        <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
+      {%- endif -%}
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <!-- Desktop: Animated Tabs -->
+      <div class="navbar-animated-tabs hidden-xs hidden-sm">
+        <div class="animated-tabs navbar-tabs">
+          <ul class="animated-tabs-list">
+            {%- for link in site.navbar-links -%}
+              {%- unless link[1].first -%}
+                <li class="animated-tab">
+                  <a href="{{ link[1] | relative_url }}" class="animated-tab-trigger">{{ link[0] }}</a>
+                </li>
+              {%- endunless -%}
+            {%- endfor -%}
+          </ul>
+        </div>
+      </div>
+      
+      <!-- Mobile: Regular Bootstrap Navigation -->
+      <ul class="nav navbar-nav navbar-right visible-xs visible-sm">
+        {%- for link in site.navbar-links -%}
+          {%- if link[1].first %}
+            <li class="navlinks-container">
+              <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
+              <div class="navlinks-children">
+                {%- for childlink in link[1] -%}
+                {%- for linkparts in childlink %}
+                <a href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
+                {%- endfor -%}
+                {%- endfor %}
+              </div>
+            </li>
+          {% else %}
+            <li><a href="{{ link[1] | relative_url }}">{{ link[0] }}</a></li>
+          {%- endif -%}
+        {%- endfor -%}
+      </ul>
+    </div>
+
+  </div>
+</nav>
+
+<style>
+  .navbar-animated-tabs {
+    float: right;
+    margin-top: 8px;
+    margin-right: 15px;
+  }
+  
+  .navbar-tabs {
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+  }
+  
+  .navbar-tabs .animated-tab-trigger {
+    color: rgba(255, 255, 255, 0.8);
+    padding: 8px 16px;
+    font-size: 13px;
+  }
+  
+  .navbar-tabs .animated-tab-trigger:hover {
+    color: rgba(255, 255, 255, 0.95);
+  }
+  
+  .navbar-tabs .animated-tab-trigger.active {
+    color: rgba(255, 255, 255, 1);
+  }
+  
+  .navbar-tabs .animated-tab-indicator {
+    background: rgba(255, 255, 255, 0.15);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+  }
+  
+  @media only screen and (max-width: 991px) {
+    .navbar-animated-tabs {
+      margin-top: 6px;
+    }
+    
+    .navbar-tabs .animated-tab-trigger {
+      padding: 6px 12px;
+      font-size: 12px;
+    }
+  }
+</style>
