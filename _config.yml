@@ -162,7 +162,19 @@ timezone: "Europe/Helsinki"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 8
+paginate: 12
+
+# Performance optimizations
+incremental: false  # GitHub Pages doesn't support incremental builds
+safe: true
+lsi: false
+excerpt_separator: "\n\n"
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [development]
 
 kramdown:
   input: GFM
@@ -195,6 +207,13 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - "*.sh"
+  - "*.log"
+  - node_modules
+  - vendor
+  - .git
+  - .gitignore
+  - data/
 
 # prose.io config
 prose:
