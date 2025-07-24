@@ -145,23 +145,23 @@ html[data-theme="dark"] body {
   color: var(--text-color) !important;
 }
 
-/* Dark mode toggle button - force visibility with extreme specificity */
+/* Dark mode toggle button - normal styling */
 body .theme-toggle,
 html body .theme-toggle,
 html body div .theme-toggle {
   position: fixed !important;
   top: 80px !important;
   right: 20px !important;
-  background: #ff0000 !important; /* Red background for debugging */
-  border: 3px solid #ffffff !important;
+  background: rgba(245,245,245,0.9) !important;
+  border: 2px solid #ddd !important;
   border-radius: 50px !important;
-  padding: 15px 20px !important;
+  padding: 10px 15px !important;
   cursor: pointer !important;
   z-index: 99999 !important;
-  color: #ffffff !important;
-  font-size: 24px !important;
+  color: #404040 !important;
+  font-size: 20px !important;
   transition: all 0.3s ease !important;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.8) !important;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2) !important;
   display: block !important;
   visibility: visible !important;
   opacity: 1 !important;

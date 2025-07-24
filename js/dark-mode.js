@@ -1,6 +1,9 @@
 // Dark Mode Toggle Functionality
 console.log('Dark mode script loaded!');
 
+// Global variable for theme icon
+let themeIcon;
+
 // Test if button exists immediately
 setTimeout(function() {
     const button = document.querySelector('.theme-toggle');
@@ -15,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
     console.log('DOM ready, initializing dark mode...');
     // Check for saved theme preference or default to light mode
     const currentTheme = localStorage.getItem('theme') || 'light';
-    const themeIcon = document.getElementById('theme-icon');
+    themeIcon = document.getElementById('theme-icon');
     
     // Apply the saved theme on page load
     document.documentElement.setAttribute('data-theme', currentTheme);
@@ -52,8 +55,13 @@ function toggleTheme() {
 }
 
 function updateThemeIcon(theme) {
-    if (themeIcon) {
-        themeIcon.textContent = theme === 'dark' ? '☀️' : '🌙';
+    // Get the icon element fresh each time if needed
+    const iconElement = themeIcon || document.getElementById('theme-icon');
+    if (iconElement) {
+        iconElement.textContent = theme === 'dark' ? '☀️' : '🌙';
+        console.log('Updated theme icon to:', iconElement.textContent);
+    } else {
+        console.log('Theme icon element not found');
     }
 }
 
