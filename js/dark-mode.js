@@ -1,6 +1,15 @@
 // Dark Mode Toggle Functionality
 console.log('Dark mode script loaded!');
 
+// Test if button exists immediately
+setTimeout(function() {
+    const button = document.querySelector('.theme-toggle');
+    console.log('Button found:', button);
+    if (button) {
+        console.log('Button styles:', window.getComputedStyle(button).display);
+    }
+}, 1000);
+
 // Wait for DOM to be ready
 document.addEventListener('DOMContentLoaded', function() {
     console.log('DOM ready, initializing dark mode...');

@@ -145,23 +145,28 @@ html[data-theme="dark"] body {
   color: var(--text-color) !important;
 }
 
-/* Dark mode toggle button - make it very visible for debugging */
-.theme-toggle {
-  position: fixed;
-  top: 20px;
-  right: 20px;
+/* Dark mode toggle button - force visibility with extreme specificity */
+body .theme-toggle,
+html body .theme-toggle,
+html body div .theme-toggle {
+  position: fixed !important;
+  top: 80px !important;
+  right: 20px !important;
   background: #ff0000 !important; /* Red background for debugging */
-  border: 2px solid #000000 !important;
-  border-radius: 50px;
-  padding: 10px 15px;
-  cursor: pointer;
-  z-index: 9999 !important;
+  border: 3px solid #ffffff !important;
+  border-radius: 50px !important;
+  padding: 15px 20px !important;
+  cursor: pointer !important;
+  z-index: 99999 !important;
   color: #ffffff !important;
-  font-size: 20px;
-  transition: all 0.3s ease;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+  font-size: 24px !important;
+  transition: all 0.3s ease !important;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.8) !important;
   display: block !important;
   visibility: visible !important;
+  opacity: 1 !important;
+  width: auto !important;
+  height: auto !important;
 }
 
 .theme-toggle:hover {
