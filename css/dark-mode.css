@@ -1,7 +1,7 @@
 /* Dark Mode Styles for Beautiful Jekyll */
 
 :root {
-  /* Light mode colors (current theme) */
+  /* Light mode colors (keep original Beautiful Jekyll colors) */
   --bg-color: #FFFFFF;
   --text-color: #404040;
   --navbar-bg: #F5F5F5;
@@ -14,6 +14,7 @@
   --border-color: #eee;
   --box-shadow: rgba(0,0,0,0.1);
 }
+
 
 /* Dark mode colors */
 [data-theme="dark"] {
@@ -30,71 +31,108 @@
   --box-shadow: rgba(255,255,255,0.1);
 }
 
-/* Apply variables to elements */
-body {
+/* Apply variables to elements with higher specificity */
+[data-theme="dark"] body,
+[data-theme="dark"] .container,
+[data-theme="dark"] .main-content {
   background-color: var(--bg-color) !important;
   color: var(--text-color) !important;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-/* Navbar */
-.navbar-custom {
+/* Navbar - more specific selectors */
+[data-theme="dark"] .navbar-custom,
+[data-theme="dark"] .navbar-default {
   background-color: var(--navbar-bg) !important;
+  border-color: var(--border-color) !important;
 }
 
-.navbar-custom .navbar-brand,
-.navbar-custom .nav li a {
+[data-theme="dark"] .navbar-custom .navbar-brand,
+[data-theme="dark"] .navbar-custom .nav li a,
+[data-theme="dark"] .navbar-default .navbar-brand,
+[data-theme="dark"] .navbar-default .nav li a {
   color: var(--navbar-text) !important;
 }
 
-.navbar-custom .navbar-brand:hover,
-.navbar-custom .nav li a:hover {
+[data-theme="dark"] .navbar-custom .navbar-brand:hover,
+[data-theme="dark"] .navbar-custom .nav li a:hover {
   color: var(--link-hover) !important;
 }
 
-/* Links */
-a {
+/* Links - be more specific to override existing styles */
+[data-theme="dark"] a,
+[data-theme="dark"] .post-preview a,
+[data-theme="dark"] .main-content a {
   color: var(--link-color) !important;
 }
 
-a:hover {
+[data-theme="dark"] a:hover,
+[data-theme="dark"] .post-preview a:hover {
   color: var(--link-hover) !important;
 }
 
+/* Page content areas */
+[data-theme="dark"] .main-content,
+[data-theme="dark"] .container-fluid,
+[data-theme="dark"] .post-preview,
+[data-theme="dark"] .blog-post {
+  background-color: var(--bg-color) !important;
+  color: var(--text-color) !important;
+}
+
 /* Footer */
-.beautiful-jekyll-footer {
+[data-theme="dark"] .beautiful-jekyll-footer,
+[data-theme="dark"] footer {
   background-color: var(--footer-bg) !important;
   color: var(--footer-text) !important;
 }
 
-.footer-links li a {
+[data-theme="dark"] .footer-links li a {
   color: var(--footer-text) !important;
 }
 
 /* Code blocks */
-pre, code {
+[data-theme="dark"] pre,
+[data-theme="dark"] code {
   background-color: var(--code-bg) !important;
   color: var(--text-color) !important;
   border: 1px solid var(--border-color) !important;
 }
 
 /* Post content */
-.post-preview {
+[data-theme="dark"] .post-preview {
   border-bottom: 1px solid var(--border-color) !important;
 }
 
 /* Pagination */
-.pager li > a, .pager li > span {
+[data-theme="dark"] .pager li > a,
+[data-theme="dark"] .pager li > span {
   background-color: var(--bg-color) !important;
   border: 1px solid var(--border-color) !important;
   color: var(--text-color) !important;
 }
 
 /* Tag buttons */
-.tag-btn {
+[data-theme="dark"] .tag-btn {
   background-color: var(--navbar-bg) !important;
   color: var(--text-color) !important;
   border-color: var(--border-color) !important;
+}
+
+/* Additional elements that need dark styling */
+[data-theme="dark"] h1, 
+[data-theme="dark"] h2, 
+[data-theme="dark"] h3, 
+[data-theme="dark"] h4, 
+[data-theme="dark"] h5, 
+[data-theme="dark"] h6 {
+  color: var(--text-color) !important;
+}
+
+[data-theme="dark"] p,
+[data-theme="dark"] li,
+[data-theme="dark"] .post-meta {
+  color: var(--text-color) !important;
 }
 
 /* Dark mode toggle button */
