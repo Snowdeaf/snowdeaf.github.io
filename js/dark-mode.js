@@ -16,8 +16,8 @@ setTimeout(function() {
 // Wait for DOM to be ready
 document.addEventListener('DOMContentLoaded', function() {
     console.log('DOM ready, initializing dark mode...');
-    // Check for saved theme preference or default to light mode
-    const currentTheme = localStorage.getItem('theme') || 'light';
+    // Check for saved theme preference or default to dark mode
+    const currentTheme = localStorage.getItem('theme') || 'dark';
     themeIcon = document.getElementById('theme-icon');
     
     // Apply the saved theme on page load
