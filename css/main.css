@@ -183,18 +183,22 @@ img {
   opacity: 0.7;
   display: inline-block;
   vertical-align: middle;
+  object-fit: cover;
+  flex-shrink: 0;
 }
 
 .navbar-custom .navbar-brand-text {
   font-size: 18px;
   font-weight: 800;
-  color: #404040;
+  color: #ffffff;
 }
 
 @media only screen and (min-width: 768px) {
   .navbar-custom .navbar-avatar-img {
     width: 40px;
     height: 40px;
+    object-fit: cover;
+    flex-shrink: 0;
   }
   
   .navbar-custom .navbar-brand-text {
