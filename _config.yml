@@ -4,7 +4,7 @@
 title: snowdeaf
 
 # Short description of your site
-description: electronic music production
+description: Electronic music production tutorials, gear reviews, and ambient techno from Helsinki. Featuring Synthstrom Deluge, ZOIA, and modular synth content.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -81,7 +81,7 @@ social-network-links:
   #  xing: yourname
   #  stackoverflow: "3943160/daattali"
   #  snapchat: deanat78
-  spotify: snowdeaf
+  spotify: https://open.spotify.com/track/30UNmbTxauszCaxfQb5gLi
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -96,6 +96,19 @@ share-links-active:
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "snowdeaf.com" # eg. "deanattali.com/beautiful-jekyll"
+
+# SEO settings
+url: "https://snowdeaf.com"
+baseurl: ""
+lang: en
+
+# Twitter settings for SEO
+twitter:
+  username: snowdeaf
+  card: summary
+
+# Open Graph defaults
+image: /img/avatar-icon.png
 
 # --- Web Statistics Section --- #
 
@@ -269,6 +282,7 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Asset optimization for better caching
 sass:
