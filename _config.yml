@@ -165,16 +165,9 @@ permalink: /:year-:month-:day-:title/
 paginate: 12
 
 # Performance optimizations
-incremental: false  # GitHub Pages doesn't support incremental builds
 safe: true
 lsi: false
 excerpt_separator: "\n\n"
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
-  ignore:
-    envs: [development]
 
 kramdown:
   input: GFM
