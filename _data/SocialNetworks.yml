@@ -64,7 +64,7 @@ youtube:
 
 spotify:
   name: "Spotify"
-  urlTemplate: "https://open.spotify.com/user/{value}"
+  urlTemplate: "{value}"
   icon: "fab fa-spotify"
 
 telephone:

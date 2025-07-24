@@ -14,7 +14,7 @@
               {%- capture url -%}{{ element.urlTemplate | replace: placeholder, value }}{%- endcapture -%}
             {%- endif -%}
             <li>
-              <a href="{{ url }}" title="{{ element.name }}">
+              <a href="{{ url }}" title="{{ element.name }}" target="_blank">
                 <span class="fa-stack fa-lg" aria-hidden="true">
                   <i class="fas fa-circle fa-stack-2x"></i>
                   <i class="{{ element.icon }} fa-stack-1x fa-inverse"></i>
