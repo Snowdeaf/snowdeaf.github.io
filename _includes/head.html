@@ -49,6 +49,9 @@
     {% endfor %}
   {% endif %}
 
+  <!-- Dark mode CSS -->
+  <link rel="stylesheet" href="{{ '/css/dark-mode.css' | relative_url }}" />
+
   {% if page.googlefonts %}
     {% for font in page.googlefonts %}
       <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
