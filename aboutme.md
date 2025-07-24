@@ -6,7 +6,7 @@ subtitle:
 
 ### Snowdeaf
 
-- Electronic music production from Helsinki, Finland
+- Electronic music production from Helsinki, Finland 🎵
 
 ### Gear
 
